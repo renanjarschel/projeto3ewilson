@@ -7,7 +7,7 @@
     --cor-borda:#efefef9c;
 }
 body{
-    background-color: var(--cor-de-fundo);
+    background-color: var(--cor-aba);
 }
 .botao{
     color:var(--cor-texto);
