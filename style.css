@@ -10,11 +10,11 @@ body{
     background-color: var(--cor-de-fundo);
 }
 .botao{
-    color:var(--cor-borda);
+    color:var(--cor-texto);
     background-color: var(--cor-aba);
     border-color: var(--cor-borda);
 
 }
 .titulo-principal{
-    color: var(--cor-texto);
+    color: var(--cor-aba);
 }
