@@ -7,10 +7,10 @@
     --cor-borda:#efefef9c;
 }
 body{
-    background-color: var(--cor-aba);
+    background-color: var(--cor-de-fundo);
 }
 .botao{
-    color:var(--cor-texto);
+    color:var(--cor-borda);
     background-color: var(--cor-aba);
     border-color: var(--cor-borda);
 
