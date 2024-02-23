@@ -1,10 +1,4 @@
-body{
-    background-color: black;
-}
 :root{
-
-}
-.item-principal{
-
-    color: #62ff3a;
+    --cor-de-fundo:#767676;
+    --cor-texto:#57C3FF;
 }
