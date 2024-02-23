@@ -2,3 +2,7 @@
     --cor-de-fundo:#767676;
     --cor-texto:#57C3FF;
 }
+
+.titulo-principal{
+    color: var(--cor-texto);
+}
