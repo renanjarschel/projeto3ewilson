@@ -1,8 +1,20 @@
 :root{
-    --cor-de-fundo:#767676;
-    --cor-texto:#57C3FF;
+    --cor-de-fundo:#3A375E;
+    --cor-texto:#000000;
+    --cor-ativa:#57C3FF;
+    --cor-inativa:#3A375E;
+    --cor-aba:#FFFFFF;
+    --cor-borda:#efefef9c;
 }
+body{
+    background-color: var(--cor-de-fundo);
+}
+.botao{
+    color:var(--cor-texto);
+    background-color: var(--cor-aba);
+    border-color: var(--cor-borda);
 
+}
 .titulo-principal{
     color: var(--cor-texto);
 }
