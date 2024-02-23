@@ -11,8 +11,8 @@ body{
 }
 .botao{
     color:var(--cor-texto);
-    background-color: var(--cor-inativo);
-    border-color: var(--cor-borda);
+    background-color: var(--cor-aba);
+    border-color: var(--cor-inativo);
 
 }
 .titulo-principal{
