@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap')
 
 :root{
     --cor-de-fundo:#3A375E;
@@ -18,4 +19,5 @@ body{
 }
 .titulo-principal{
     color: var(--cor-aba);
+    
 }
