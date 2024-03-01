@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap')
+
 
 :root{
-    --cor-de-fundo:#3A375E;
+    --cor-de-fundo:#1F095C;
     --cor-texto:#000000;
     --cor-ativa:#57C3FF;
     --cor-inativo:#3A375E;
@@ -10,7 +10,10 @@
 }
 body{
     background-color: var(--cor-de-fundo);
-}
+    font-family: "Archivo Black", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
 .botao{
     color:var(--cor-texto);
     background-color: var(--cor-aba);
@@ -19,5 +22,5 @@ body{
 }
 .titulo-principal{
     color: var(--cor-aba);
-    
+
 }
