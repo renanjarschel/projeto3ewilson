@@ -14,15 +14,15 @@ body{
     font-weight: 400;
     font-style: normal;
   }
+  .conteudo-principal{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 .botao{
     color:var(--cor-texto);
     background-color: var(--cor-aba);
     border-color: var(--cor-inativo);
     border-color: var(--cor-borda);
-}
-.conteudo-principal{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
 }
