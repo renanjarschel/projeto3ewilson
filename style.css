@@ -32,4 +32,7 @@ body{
     background-color: var(--cor-aba);
     border-color: var(--cor-inativo);
     border-color: var(--cor-borda);
+    width: 200px;
+    height: 80px;
+    align-self: auto;
 }
