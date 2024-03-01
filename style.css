@@ -29,7 +29,7 @@ body{
 .botao{
     font-family: "Archivo Black", sans-serif;
     color:var(--cor-texto);
-    background-color: var(--cor-aba);
+    background-color: var(--cor-inativo);
     border-color: var(--cor-inativo);
     border-color: var(--cor-borda);
     width: 200px;
