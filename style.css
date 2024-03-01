@@ -14,7 +14,7 @@ body{
     color:var(--cor-texto);
     background-color: var(--cor-aba);
     border-color: var(--cor-inativo);
-
+    border-color: var(--cor-borda);
 }
 .titulo-principal{
     color: var(--cor-aba);
