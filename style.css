@@ -20,7 +20,9 @@ body{
     border-color: var(--cor-inativo);
     border-color: var(--cor-borda);
 }
-.titulo-principal{
-    color: var(--cor-aba);
-
+.conteudo-principal{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
