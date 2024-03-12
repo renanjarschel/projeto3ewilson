@@ -21,6 +21,9 @@ body{
     width: 100%;
     margin: 0 auto;
 }
+.titulo-principal span{
+    color: var(--cor-aba);
+}
 .titulo-principal{
     text-align: left;
     width: 100%;
