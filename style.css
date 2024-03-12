@@ -28,8 +28,8 @@ body{
     }
 .botao{
     font-family: "Archivo Black", sans-serif;
-    color:var(--cor-texto);
     background-color: var(--cor-borda);
+    color:var(--cor-texto);
     display: flex;
     justify-content: center;
     padding: 1em;
