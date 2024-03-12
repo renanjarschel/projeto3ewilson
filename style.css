@@ -36,4 +36,11 @@ body{
     height: 80px;
     align-self: auto;
     border-radius: 30px;
+    font-size: 18px;
+    align-items: center;
+    border-bottom: 4px solid var(--cor-ativa);
+    border-left: 2px solid var(--cor-ativa);
+    border-right: 2px solid var(--cor-ativa);
+    border-top: none;
 }
+
