@@ -5,6 +5,7 @@
     --cor-inativo:#3A375E;
     --cor-aba:#fffd7c;
     --cor-borda:#e2c231;
+    --cor-ativado:#ffcb1f;
 }
 body{
     background-color: var(--cor-de-fundo);
@@ -51,6 +52,10 @@ body{
 }
 .botoes{
     display: flex;
+}
+.ativo{
+    background-color: var(--cor-ativa);
+    border-bottom: 4px solid var(--cor-ativado);
 }
 @media screen and (min-width: 768px) {
     .botoes{
