@@ -50,7 +50,7 @@ body{
 .botoes{
     display: flex;
 }
-@media screen and (min-width: 968px) {
+@media screen and (min-width: 768px) {
     .botoes{
         display: flex;
     }
