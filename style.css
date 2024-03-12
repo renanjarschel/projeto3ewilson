@@ -5,7 +5,7 @@
     --cor-inativo:#3A375E;
     --cor-aba:#fffd7c;
     --cor-borda:#e2c231;
-    --cor-ativado:#ffffff;
+    --cor-ativado:#000000;
 }
 body{
     background-color: var(--cor-de-fundo);
