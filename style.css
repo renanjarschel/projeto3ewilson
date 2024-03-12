@@ -30,6 +30,9 @@ body{
     font-family: "Archivo Black", sans-serif;
     color:var(--cor-texto);
     background-color: var(--cor-borda);
+    display: flex;
+    justify-content: center;
+    padding: 1em;
     width: 200px;
     height: 80px;
     align-self: auto;
