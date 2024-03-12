@@ -28,6 +28,14 @@ body{
     text-align: left;
     width: 100%;
     font-size: 32px;
+    background-image: linear-gradient(
+        -225deg,
+        #1C1C1C
+        #4F4F4F
+        #E8E8E8
+        #FFFFE0
+        #ffff83
+    );
     }
 .botao{
     font-family: "Archivo Black", sans-serif;
@@ -40,7 +48,7 @@ body{
     align-items: center;
     width: 100%;
     border-bottom: 4px solid var(--cor-ativa);
-    border-left: 2px solid va(--cor-ativa);
+    border-left: 2px solid var(--cor-ativa);
     border-right: 2px solid var(--cor-ativa);
     border-top: none;
 }
