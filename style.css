@@ -2,7 +2,7 @@
     --cor-de-fundo:#ffe58f;
     --cor-texto:#000000;
     --cor-ativa:#ffee01;
-    --cor-inativo:#3A375E;
+    --cor-inativo:#ffe15b;
     --cor-aba:#fffd7c;
     --cor-borda:#e2c231;
     --cor-ativado:#000000;
@@ -58,7 +58,7 @@ body{
     border-bottom: 4px solid var(--cor-ativado);
 }
 .abas-textos{
-    background-color: var(--cor-ativa);
+    background-color: var(--cor-inativo);
     padding: 40px;
     border-radius: 0 0 40px 40px;
 }
