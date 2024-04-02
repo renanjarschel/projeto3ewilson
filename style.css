@@ -55,10 +55,10 @@ body{
 }
 .ativo{
     background-color: var(--cor-ativa);
-    border-bottom: 4px solid var(--cor-ativado);
+    border-bottom: 4px solid var(--cor-ativa);
 }
 .abas-textos{
-    background-color: var(--cor-borda);
+    background-color: var(--cor-inativo);
     padding: 40px;
     border-radius: 0 0 40px 40px;
 }
