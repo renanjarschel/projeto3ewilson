@@ -15,4 +15,11 @@ const contadores = document.querySelectorAll (".contador");
 const tempoObjetivo1 = new Date ("2024-12-22");
 let tempoAtual = new Date();
 
-contadores[0].textContent = tempoObjetivo1 - tempoAtual;
+for (let i=0; i< contadores.length; i++){
+    contadores[I].textContent = calcularTempo (tempos[i]);
+}
+contadores[0].textContent = calcularTempo(tempoObjetivo1);
+
+function calcularTempo(tempoObjetivo1){
+    let tempoAtual = new Date();
+}
