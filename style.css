@@ -88,3 +88,8 @@ body{
         border-radius: 0 40px 0 0;
     }
 }
+@keyframes textclip {
+    to {
+      background-position: 200% center;
+    } 
+} 
